@@ -1,0 +1,6 @@
+first_name = input('''Please put your first name...
+''')
+last_name = input('''Please put your last name...
+''')
+
+print(f'{last_name} {first_name}')
